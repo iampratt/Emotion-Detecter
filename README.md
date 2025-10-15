@@ -94,10 +94,6 @@ text,emotion
 - The notebook includes visualizations for class distribution, training progress, and performance metrics.
 - The trained CNN model achieves competitive accuracy on the test set, demonstrating CNN's effectiveness for text-based emotion classification.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 **References**
